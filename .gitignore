@@ -1,0 +1,4 @@
+/.env
+/.idea
+/.docker/mongodb/data
+/.docker/postgres/data
